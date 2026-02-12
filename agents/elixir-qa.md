@@ -1,4 +1,3 @@
-
 ---
 name: elixir-qa
 description: Runs mix precommit and returns concise summaries of any formatting, Credo, compilation, Dialyzer, or test issues. Use this agent to run Elixir quality checks without verbose output in the main context.
